@@ -1,0 +1,24 @@
+<people>
+    <persons>
+        <person>
+            <id>10</id>
+            <firstName>Michael</firstName>
+            <lastName>Jordan</lastName>
+        </person>
+        <person>
+            <id>20</id>
+            <firstName>Scotty</firstName>
+            <lastName>Pippen</lastName>
+        </person>
+        <person>
+            <id>30</id>
+            <firstName>Kobe</firstName>
+            <lastName>Bryant</lastName>
+        </person>
+        <person>
+            <id>40</id>
+            <firstName>Shaq</firstName>
+            <lastName>Oneil</lastName>
+        </person>
+    </persons>
+</people>
